@@ -852,8 +852,8 @@ ol.list-num-count.list-outline-none > li:before {
 .bg-primary{background-color:#ffbc13;}
 .bg-secondry{background-color:#1a1a1a;}
 .bg-white{background-color:#FFF;}
-.bg-black{background-color:#000;}
-.bg-black-light{background-color:#212121;}
+.bg-white{background-color:#000;}
+.bg-white-light{background-color:#212121;}
 .bg-gray{background-color:#f5f6f6;}
 .bg-gray-light{background-color:#f1f1f1;}
 .bg-gray-light-1{background-color:#fbfbfb;}
@@ -6828,7 +6828,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
  display:block;
  font-size:16px;
  text-transform:uppercase;
- color:#efefef;
+ color:#000;
 }
 @media only screen and (max-width: 991px) {
 .header-info > ul li {
@@ -10091,7 +10091,7 @@ ol.commentlist li .star-rating{
 .wt-info-has.bg-green {
 	background-color:rgba(106,179,62,0.9);
 }
-.wt-info-has.bg-black {
+.wt-info-has.bg-white {
 	background-color:rgba(0,0,0,0.6);
 }
 .wt-info-has.bg-white {
@@ -11588,7 +11588,7 @@ ol.commentlist li::after {
   	color: #4a4a4a;
 }
 .top-links-a{
-	color: #fcfcfc;
+	color: #000;
 }
 .top-links-a:hover{
 	color: #f39c12
