@@ -6854,7 +6854,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 }
 .header-botton .header-nav .nav > li > a {
 	padding:20px 12px;
-	color:#fff;
+	color:#000;
 }
 .header-botton .extra-nav {
     padding: 13px 0;
@@ -11821,6 +11821,7 @@ section{
 #enquiry-btn-soical>li>a{
 	font-size: large;
 	padding: 0px 5px;
+	color: #000;
 }
 #enquiry-btn-soical>li>a:hover{
 	color: var(--theme-color);
