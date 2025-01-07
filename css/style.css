@@ -9429,20 +9429,13 @@ footer .container {
 /*-------------------------------------
 	6. scroll top btn css
 -------------------------------------*/
-.bottom-whatsapp:hover{
-background-color: #000 !important;
-color: green;
-}
-.fa-whatsapp{
-	color: var(--theme-color);
-}
+
 .fa-whatsapp:hover{
 	color: green;
 }
 button.scroltop { 
 	height: 55px;  
 	width: 55px;
-	background:#000;  
 	border:0px solid;
 	position: fixed;   
 	right: 15px;   
@@ -9467,7 +9460,6 @@ button.scroltop span{
 .a-scroltop { 
 	height: 55px;  
 	width: 55px;
-	background:#000;  
 	border:0px solid;
 	position: fixed;   
 	right: 15px;   
