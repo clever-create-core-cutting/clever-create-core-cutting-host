@@ -9451,13 +9451,15 @@ button.scroltop {
 	text-align:center;  
 	z-index:999;
 	border-radius: 50%;
+	background: #fff0;
 }
 button.scroltop span{
 	display: block;
 	font-size: 24px;
 	line-height: 24px;
 }
-.a-scroltop { 
+.a-scroltop {
+	background-color: #fff0;
 	height: 55px;  
 	width: 55px;
 	border:0px solid;
