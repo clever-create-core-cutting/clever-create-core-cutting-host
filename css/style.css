@@ -7154,8 +7154,8 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	transition: all 0.3s ease;
 }
 .header-nav .nav > li .sub-menu {
-	background-color: #000;
-	border: 1px solid #000;
+	background-color: #fff;
+	/* border: 1px solid #000; */
 	display: block;
 	left: 0;
 	list-style: none;
@@ -7166,6 +7166,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	visibility: hidden;
 	width: 220px;
 	z-index: 10;
+	/* box-shadow: 0px 5px 4px 0px #dbdbdb; */
 }
 .header-nav .nav > li .sub-menu li {
 	border-bottom: 1px solid #ffb8041a;
@@ -7173,7 +7174,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	text-transform:none;
 }
 .header-nav .nav > li .sub-menu li a {
-	color:#fff;
+	color:#000;
 	display: block;
 	font-size: 14px;
 	padding: 10px 20px;
