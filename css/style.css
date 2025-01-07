@@ -233,7 +233,7 @@ p {
   line-height:24px;
   margin-bottom:24px;
   font-size: 16px;
-  color: #b9b9b9;
+  color: #333232;
 }
 strong { 
 	font-weight:600;
@@ -11711,7 +11711,7 @@ section{
 }
 .section-para{
 	font-size: 16px;
-  	color: #b9b9b9;
+  	color: #333232;
 }
 .widget-title::after{
 	background-color: var(--theme-color) !important;
