@@ -11683,9 +11683,15 @@ ol.commentlist li::after {
   	padding: 0px 3px 10px 0px;
 }
 .footer-link{
-	color: #000;
+	color: #fff;
 }
 .footer-link:hover{
+	color: var(--yellow-color);
+}
+.footer-link-c{
+	color: #000;
+}
+.footer-link-c:hover{
 	color: var(--yellow-color);
 }
 
@@ -11811,9 +11817,15 @@ section{
 	min-height: 114px !important;
 }
 .mail-hover{
-	color: #000 !important;
+	color: #fff;
 }
 .mail-hover:hover{
+	color: var(--theme-color) !important;
+}
+.mail-hover-c{
+	color: #000;
+}
+.mail-hover-c:hover{
 	color: var(--theme-color) !important;
 }
 #enquiry-btn-soical>li>a{
