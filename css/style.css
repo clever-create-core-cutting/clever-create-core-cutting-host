@@ -1186,7 +1186,7 @@ ol.list-num-count.list-outline-none > li:before {
 .bdr-primary{border-color:#ffbc13;}
 .bdr-gray{border-color:#dddddd;}
 .bdr-gray-light{border-color:#eeeeee;}
-.bdr-gray-dark{border-color:#333333;}
+.bdr-gray-dark{border-color:#000000;}
 .bdr-1,
 .bdr-2,
 .bdr-3,
