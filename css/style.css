@@ -11783,13 +11783,11 @@ section{
 	border-radius: 9px;
 	text-transform: uppercase;
 	font-weight: bold;
-	background: var(--theme-color);
-	border: solid #0d0d0d;
+	background: black;
 	color: #fff;
 }
 .submit-btn:hover{
 	background: var(--theme-color);
-	border: solid var(--theme-color);
 }
 .form-control-1{
 	display: block;
